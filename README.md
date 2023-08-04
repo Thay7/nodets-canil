@@ -8,4 +8,4 @@ Projeto Feito no módulo Node + Typescript
 `npm install`
 
 ### Para rodar: 
-`npm run start`
+`npm start`
